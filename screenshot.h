@@ -1,3 +1,7 @@
+#ifndef SCREENSHOTVDSPROGRAM_SCREENSHOT_H
+#define SCREENSHOTVDSPROGRAM_SCREENSHOT_H
+
+
 #include <iostream>
 #include <string>
 #include <random>
@@ -6,9 +10,6 @@
 #include <fstream>
 #include <chrono>
 
-
-#ifndef SCREENSHOTVDSPROGRAM_SCREENSHOT_H
-#define SCREENSHOTVDSPROGRAM_SCREENSHOT_H
 
 class MakeScreenshots {
 private:
